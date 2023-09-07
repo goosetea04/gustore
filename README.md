@@ -1,0 +1,2 @@
+# gustore
+gustore  = gusti + store
