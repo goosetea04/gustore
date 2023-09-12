@@ -1,2 +1,0 @@
-# gustore
-gustore  = gusti + store
